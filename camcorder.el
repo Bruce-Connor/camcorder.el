@@ -67,6 +67,7 @@
 ;;; Code:
 
 (require 'cl-lib)
+(require 'names)
 
 ;;;###autoload
 (define-namespace camcorder-
